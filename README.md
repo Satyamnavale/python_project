@@ -1,4 +1,4 @@
-# Online Cricket Players Records Managment System
+# Online Cricket Players Records  System
 
 ## Project created by:
 Satyam Rajaram Navale
